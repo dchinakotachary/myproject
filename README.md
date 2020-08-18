@@ -1,2 +1,2 @@
 # myproject
-its my personal project
+sample project
